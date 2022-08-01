@@ -1,0 +1,14 @@
+.container {
+  width: 100%;
+  padding: 30px 30px 150px 30px;
+}
+
+.title {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+
+.subtitle {
+  margin-bottom: 20px;
+}

@@ -1,0 +1,23 @@
+.input {
+  padding: 5px 10px;
+  width: 100%;
+  border-radius: 10px;
+  font-size: 16px;
+  border: none;
+}
+
+.inputGroup {
+  display: flex;
+}
+
+.form {
+  margin-bottom: 20px;
+  border: 1px solid var(--greenNormal);
+  border-radius: 10px;
+}
+
+.btn {
+  background-color: var(--greenNormal);
+  border-radius: 10px;
+  color: white;
+}

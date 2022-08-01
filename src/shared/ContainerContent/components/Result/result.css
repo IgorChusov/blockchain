@@ -1,0 +1,26 @@
+.container {
+  width: 100%;
+
+  border-radius: 10px;
+  min-height: 100px;
+  position: relative;
+}
+
+.containerError {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.item {
+  padding: 20px 10px ;
+  border-radius: 20px;
+  border: 1px solid #CACACA;
+}
+.itemTitle {
+  margin-bottom: 10px;
+}
+.item:not(:last-child) {
+  margin-bottom: 20px;
+}
